@@ -1,0 +1,153 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  padding: 40px;
+  background-color: #f5f7fa;
+  font-family: Montserrat;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.wrapper {
+  background-color: #fff;
+  display: flex;
+}
+.sidebar {
+  background-color: #1e2939;
+  height: 1319px;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.about-me-container {
+  padding: 50px 90px;
+}
+.contact-container {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.contact-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  padding-bottom: 20px;
+}
+.C-E {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ffffff;
+  font-weight: 700;
+  padding-right: 10px;
+}
+.contact-link {
+  width: 166px;
+  height: 39px;
+  opacity: 0.5;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.tech-skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  padding-bottom: 20px;
+}
+.tech-skills-container {
+  padding-top: 54px;
+  padding-left: 40px;
+}
+.tech-skills-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 17px;
+}
+.tech-skills-text {
+  color: #fff;
+}
+
+.soft-skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-bottom: 15px;
+  color: #fff;
+}
+.soft-skills-container {
+  padding-top: 54px;
+  padding-left: 40px;
+}
+.soft-skills-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 17px;
+}
+.soft-skills-text {
+  color: #fff;
+}
+
+.name {
+  font-size: 45px;
+  font-weight: 700;
+}
+.about-me-text {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-top: 24px;
+  color: #595959;
+}
+.projects-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  padding-top: 25px;
+}
+.projects-all {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+}
+.project-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+}
+
+.date {
+  font-size: 12px;
+  font-weight: 400;
+  color: #a8a8a8;
+}
+.data-slash {
+  color: #000;
+}
+.education-list li {
+  margin-top: 15px;
+}
+.univer {
+  color: orange;
+  font-size: 16px;
+}
+.faculty {
+  padding-top: 10px;
+}
